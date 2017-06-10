@@ -12,3 +12,6 @@ $inst = new ClassName();
 $inst->Debug(TRUE);
 $inst->Go();
 ```
+```jquery
+$('#element').hide();
+```
