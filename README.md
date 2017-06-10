@@ -1,5 +1,5 @@
 # turbo-happiness
-learning git :)
+learning git and features :)
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
